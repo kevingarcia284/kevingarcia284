@@ -7,7 +7,7 @@
 - #🌱 Estudiante de ingenieria agricola...
 -  🔳Aprendiz de programador ...
 - 🤔 Mi meta es graduarme de la Universidad Nacional en Ingenieria Agricola ...
--  
--
-- 
-- 
+  
+
+  
+  
